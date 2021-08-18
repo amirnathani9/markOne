@@ -52,4 +52,4 @@ for(var i=0;i<questions.length;i++){
 }
 
 console.log("Yor Final Score Of The Quiz is "+score);
-console.log("Thanks For Playing "+goodName +"!");
+console.log("Thanks For Playing "+goodName +"!!!");
